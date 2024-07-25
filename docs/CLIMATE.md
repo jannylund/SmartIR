@@ -615,6 +615,7 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | Code                               | Supported Models | Controller |
 | ---------------------------------- | ---------------- | ---------- |
 | [2120](../codes/climate/2120.json) | MPAF13A0R5IAA    | Broadlink  |
+| [2121](../codes/climate/2121.json) | CAW5P2X5AA       | Broadlink  |
 
 #### Unionaire
 | Code                               | Supported Models | Controller |
